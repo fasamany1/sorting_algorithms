@@ -387,7 +387,7 @@ alex@/tmp/sort$
 <a href="https://youtu.be/ywWBy6J5gz8">Video - Quick-sort with Hungarian (Kukullomen)</a>
 
 
-Write a function that sorts an array of integers in ascending order using the <a href="https://intranet.alxswe.com/rltoken/_pBTrH0Xyo4BRmQn4CtnMg">Quick sort</a>algorithm
+Write a function that sorts an array of integers in ascending order using the <a href="https://intranet.alxswe.com/rltoken/_pBTrH0Xyo4BRmQn4CtnMg">Quick sort</a> algorithm
 
 * Prototype: ```void quick_sort(int *array, size_t size);```
 * You must implement the ```Lomuto``` partition scheme.
@@ -497,7 +497,7 @@ alex@/tmp/sort$
   
 #### 5. Cocktail shaker sort
 
-Write a function that sorts a doubly linked list of integers in ascending order using the <a href="https://intranet.alxswe.com/rltoken/bwa4mHfUbbWTB8J2OIHvpA">Cocktail shaker sort algorithm</a>
+Write a function that sorts a doubly linked list of integers in ascending order using the <a href="https://intranet.alxswe.com/rltoken/bwa4mHfUbbWTB8J2OIHvpA">Cocktail shaker sort</a> algorithm
 
 * Prototype: ```oid cocktail_sort_list(listint_t **list);```
 * You are not allowed to modify the integer n of a node. You have to swap the nodes themselves.
