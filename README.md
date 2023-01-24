@@ -1150,7 +1150,7 @@ typedef struct deck_node_s
     * From Spades to Diamonds
     * See example below
 
-    ```
+```
 alex@/tmp/sort$ cat 1000-main.c
 #include <stdlib.h>
 #include <stdio.h>
